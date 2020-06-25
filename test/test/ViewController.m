@@ -20,6 +20,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //这是我的1版本
     // Do any additional setup after loading the view. 
     
 }
